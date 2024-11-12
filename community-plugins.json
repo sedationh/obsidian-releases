@@ -296,7 +296,7 @@
     {
         "id": "obsidian-dangling-links",
         "name": "Dangling links",
-        "author": "Graydon Hoare",
+        "author": "Graydon Hoare",c
         "description": "Add a sidebar showing any dangling links in a vault. Dangling links are orphaned links that don't point to anything in the vault.",
         "repo": "graydon/obsidian-dangling-links"
     },
